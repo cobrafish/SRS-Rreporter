@@ -4,19 +4,19 @@
  Creating a Software Requirements Specification (SRS) for a communication program requires a structured approach. Below is a concise guide based on the principles outlined in Software Architecture: Foundations, Theory, and Practice by Richard N. Taylor, Nenad Medvidovic, and Eric Dashofy.
 
 ## 1. Introduction
-Purpose: Clearly define the purpose of the communication program (e.g., enabling reliable data exchange between systems or users).
-Scope: Briefly describe the system, its objectives, and its boundaries.
-Definitions, Acronyms, and Abbreviations: Provide clarity on terms used.
-References: List related documents, standards, or resources.
+* Purpose: Clearly define the purpose of the communication program (e.g., enabling reliable data exchange between systems or users).
+* Scope: Briefly describe the system, its objectives, and its boundaries.
+* Definitions, Acronyms, and Abbreviations: Provide clarity on terms used.
+* References: List related documents, standards, or resources.
 ## 2. Overall Description
-Product Perspective:
+* Product Perspective:
 Describe how the program fits into the larger system (e.g., as a standalone application or part of a distributed system).
 Highlight dependencies and interactions with external systems or modules.
-Product Functions:
+* Product Functions:
 Summarize the main functionalities (e.g., real-time messaging, file transfer, or logging communication events).
-User Characteristics:
+* User Characteristics:
 Define user types (e.g., administrators, end-users, or system integrators) and their expertise level.
-Assumptions and Dependencies:
+* Assumptions and Dependencies:
 Specify assumptions about the environment (e.g., network conditions, operating systems) and dependencies on other software/hardware.
 ## 3. Functional Requirements
 Detail the core functionality with clear, testable specifications. Use structured formats like "shall" statements or use cases.
